@@ -1,0 +1,12 @@
+# Site settings
+title: Luiz Armesto
+email: luiz.armesto@gmail.com
+avatar: /images/avatar.png
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://luizarmesto.github.io" # the base hostname & protocol for your site
+twitter_username: LuizArmesto
+github_username:  LuizArmesto
+
+# Build settings
+markdown: kramdown
